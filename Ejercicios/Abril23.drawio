@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T11:37:42.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IsTdA2qER0wwg7kpNmdR" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-23T11:38:18.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WVinK3-it6RxjO1KSJmw" version="24.2.8" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Ejercicio1">
     <mxGraphModel dx="1884" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -188,6 +188,12 @@
         </mxCell>
         <mxCell id="1qrAcVEEd5SkYplnu0CV-35" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1qrAcVEEd5SkYplnu0CV-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1qrAcVEEd5SkYplnu0CV-25" target="1qrAcVEEd5SkYplnu0CV-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="185" as="sourcePoint" />
+            <mxPoint x="700" y="135" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
