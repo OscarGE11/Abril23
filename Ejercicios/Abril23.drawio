@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T11:18:36.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DShN4lqIXAj7Telxysuj" version="24.2.8" type="github">
-  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2024-04-23T11:21:47.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3lVfU9dn-2TEccwWwmG6" version="24.2.8" type="github" pages="2">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Ejercicio1">
     <mxGraphModel dx="1884" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
@@ -81,6 +81,29 @@
         </mxCell>
         <mxCell id="F15RlK86ZsekV8ikuqOl-30" value="(N,M&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="248.36" y="246.34" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CXR2Wb69tk7Tgtd5U62r" name="Page-2">
+    <mxGraphModel dx="1034" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1qrAcVEEd5SkYplnu0CV-1" value="Zoo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1qrAcVEEd5SkYplnu0CV-2" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1qrAcVEEd5SkYplnu0CV-3" value="Localización" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1qrAcVEEd5SkYplnu0CV-5" value="Tamaño" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1qrAcVEEd5SkYplnu0CV-6" value="Presupuesto Anual" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
